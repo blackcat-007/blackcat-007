@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=blackcat-007&icon=0&color=13)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I have interned with startup like DookanPe and built multiple personal real world projects with complex functionalities which helped me write good quality code, build scalable product and implement security features to protect the apps. <br>💬 Ask me about Java, Python, C, C++, NextJs 14, Django REST, TailwindCSS, React, Node js, Express Js, MongoDB, MySQL<br>
-
+<img align="center" alt="Coding" width="400" margin="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ## ✏️ Reach out to me: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shubhodeepmukherjee24@gmail.com)
 
