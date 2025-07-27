@@ -9,8 +9,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shubhodeepmukherjee24@gmail.com)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ghor_kuno_1010?igsh=MWNvZGFtN3psb3hubw==)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/shubhodeepmukherjeewebdev)
+
+<a href="https://www.instagram.com/ghor_kuno_1010?igsh=MWNvZGFtN3psb3hubw==" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24" height="24" />
+</a>
+
+<a href="https://linkedin.com/in/shubhodeepmukherjeewebdev" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24" />
+</a>
+
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/Code-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
