@@ -1,64 +1,79 @@
-<h1 align="center">Hi 👋, I'm Shubhodeep Mukherjee</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-[![](https://visitcount.itsvg.in/api?id=blackcat-007&icon=0&color=13)](https://visitcount.itsvg.in)
-# 💫 About Me:
-🔭 I have interned with startup like DookanPe and built multiple personal real world projects with complex functionalities which helped me write good quality code, build scalable product and implement security features to protect the apps. <br>💬 Ask me about Java, Python, C, C++, NextJs 14, Django REST, TailwindCSS, React, Node js, Express Js, MongoDB, MySQL<br>
-<img align="center" alt="Coding" width="400" margin="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-## ✏️ Reach out to me: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shubhodeepmukherjee24@gmail.com)
-
-## 🌐 Socials:
-
-<a href="https://www.instagram.com/ghor_kuno_1010?igsh=MWNvZGFtN3psb3hubw==" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24" height="24" />
-</a>
-
-<a href="https://linkedin.com/in/shubhodeepmukherjeewebdev" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24" />
-</a>
-
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/Code-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/Framework-Django-green?style=flat&logo=django) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![REST API](https://img.shields.io/badge/API-REST-blue?style=flat&logo=swagger) ![Postman](https://img.shields.io/badge/Tool-Postman-orange?style=flat&logo=postman)
-
-
-
-# 👨🏻‍💻 Coding Profiles:
-<p align="left">
-<a href="https://leetcode.com/u/shubhodeep_mukherjee/" target="blank">
-    <img src="https://img.shields.io/badge/Leetcode-white?style=flat-square&logo=Leetcode&logoColor=black" alt="Leetcode" height="30" width="100"/></a>
-<a href="https://www.geeksforgeeks.org/user/shubhodeepm9jut/" target="blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-white?style=flat-square&logo=GeeksForGeeks&logoColor=green" alt="GeeksForGeeks" height="30" width="120"/></a>
- <a href="https://www.codechef.com/users/shubhodeep_007" target="blank">
-    <img src="https://img.shields.io/badge/Codechef-white?style=flat-square&logo=Codechef&logoColor=black" alt="Codechef" height="30" width="100"/></a>
-<a href="https://codeforces.com/profile/shubhodeep_007" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=Codeforces&logoColor=blue" alt="Codeforces" height="30" width="100"/></a> 
-<a href="https://codeforces.com/profile/shubhodeep_007" target="blank">
-    <img src="https://img.shields.io/badge/Practice-CodeStudio-orange?style=flat" alt="Codeforces" height="30" width="100"/></a> 
- 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F77209&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhodeep+Mukherjee" alt="Typing SVG" />
+  </a>
 </p>
 
+<h3 align="center">An ECE Student</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Passionate+About+Coding;Software+Development;Competitive+Programming" alt="Typing SVG" />
+</h2>
+<p align="center">
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=blackcat-007&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sblackcat-007&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackcat-007&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blackcat-007&label=Profile%20views&color=0e75b6&style=flat" alt="blackcat-007" /> </p>
+ 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=blackcat-007&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="blackcat-007" />
+  </a> 
+</p>
 
-## 📊 LeetCode Stats
+<h1 align="center">Connect with me:</h1>
+<p align="center">
+  <a href="shubhodeepmukherjee24@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="50" width="50" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/shubhodeep_mukherjee?ext=contest)
-<br><br>
+  <a href="https://www.linkedin.com/in/shubhodeepmukherjeewebdev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ghor_kuno_1010?igsh=MWNvZGFtN3psb3hubw==" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+   <a href="https://codolio.com/profile/Shubhodeep_007" target="blank">
+    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="pratham" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+   <a href="https://www.codechef.com/users/shubhodeep_007" target="blank">
+    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+  <a href="https://www.naukri.com/code360/profile/Blackcat" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/shubhodeep_mukherjee" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/shubhodeepm9jut" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" />
+  </a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
 
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) | 
+| ----- | ---- | ---- | ---- | ---- |
+| <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,python" title="C, C++, Java, JavaScript, TypeScript, HTML, CSS, Python"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,django,tailwind,bootstrap" title="React, Redux, Next.js, Node.js, Django, TailwindCSS, Bootstrap"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=idea,vscode" title="IntelliJ IDEA, VS Code"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel" title="Git, GitHub, Figma, Postman,Vercel"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" title="MongoDB, MySQL"/></div> |<div align="center"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" title="Matplotlib"/></div> |<div align="center"><div align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" title="Jupyter" height="50"/></div><div align="center"><img src="https://skillicons.dev/icons?i=npm" title="NPM"/></div></div>| <div align="center"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="40" title="Windows Terminal"/></div> |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=blackcat-007&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+ 
+ <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackcat-007&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackcat-007&theme=tokyonight" height="180em" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=blackcat-007&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<p align="center">
+  &nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=blackcat-007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blackcat-007&theme=tokyonight" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackcat-007&theme=tokyonight" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackcat-007&theme=tokyonight" height="180em" />
+</p>
 
+<p align="center">
+     <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=blackcat-007&theme=dark&hide_border=true" />
+  </p>
+  <div align="center">
+  <img src="https://leetcard.jacoblin.cool/shubhodeep_mukherjee?ext=contest" alt="Leetcode Stats" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
