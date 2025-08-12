@@ -14,7 +14,10 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=blackcat-007&label=Profile%20views&color=0e75b6&style=flat" alt="blackcat-007" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&logo=github&logoColor=white&colorA=0e75b6&colorB=001f3f" alt="Profile Views" />
+</p>
+
  
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
