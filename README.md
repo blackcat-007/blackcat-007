@@ -18,9 +18,10 @@
  
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=blackcat-007&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="blackcat-007" />
+    <img src="https://github-profile-trophy.vercel.app/?username=blackcat-007&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="blackcat-007" />
   </a> 
 </p>
+
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
