@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h2 align="center">Student of ECE</h2>
+<h2 align="center">   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVkeGhnNnYzMWttZ251eHBncGt3ODNpNHl3MWRuZjB5ZGUwNnZ0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BCL1p8O1gnH6U/giphy.gif" width="70" />  Student of ECE   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4aHFrdXQzc2M3a3FmN2NpN211eDR5anpvamhocmtvdG5rajl3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mFDWuDppjQJjite6FS/giphy.gif" width="70" />  </h2>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Passionate+Engineer;Software+Developer;Competitive+Programmer" alt="Typing SVG" />
 </h1>
@@ -33,7 +33,7 @@
 </p>
 
 
-<h1 align="center">Connect with me</h1>
+<h1 align="center">🔗Connect with me</h1>
 <p align="center">
   <a href="shubhodeepmukherjee24@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="50" width="50" />
@@ -64,7 +64,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhodeepm9jut" height="30" width="40" />
   </a>
 </p>
-<h1 align="center">Technologies</h1>
+<h1 align="center">🛠️Technologies</h1>
 
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |
 | ----- | ---- | ---- | ---- | ---- |
@@ -81,7 +81,7 @@
   </a>
 
   <p align="center">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="70" />  
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZhbHJtZzZvNWFsbWZ2MGN4Yms5NXdyanY3bWVjZDl3eWQ4dzVtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26DOMQa5Ib2SmaRZm/giphy.gif" width="70" />  
     <strong>A platform for cinephiles to connect & discuss together about films built with React.js & Firebase</strong>  
   </p>
 
@@ -101,7 +101,7 @@
 </div>
 
 
- <h1 align="center">Activity</h1>
+ <h1 align="center">🏃‍♂️Activity</h1>
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackcat-007&theme=react" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackcat-007&theme=react" height="180em" />
