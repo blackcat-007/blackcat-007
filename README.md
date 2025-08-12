@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Passionate+Engineer;Software+Developer;Competitive+Programmer" alt="Typing SVG" />
 </h1>
 <p align="center">
-<img alt="Coder GIF" height=300 width=550 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@
 
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |
 | ----- | ---- | ---- | ---- | ---- |
-| <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,python" title="C, C++, Java, JavaScript, TypeScript, HTML, CSS, Python"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,django,tailwind,bootstrap" title="React, Redux, Next.js, Node.js, Django, TailwindCSS, Bootstrap"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=idea,vscode" title="IntelliJ IDEA, VS Code"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel" title="Git, GitHub, Figma, Postman,Vercel"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,python" title="C, C++, Java, JavaScript, TypeScript, HTML, CSS, Python"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,django,tailwind,bootstrap" title="React, Redux, Next.js, Node.js, Django, TailwindCSS, Bootstrap"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=idea,vscode" title="IntelliJ IDEA, VS Code"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel,firebase,supabase,devto" title="Git, GitHub, Figma, Postman, Vercel, Firebase, Supabase, Devtools"/></div>| <div align="center"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></div> |
 | <div align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" title="MongoDB, MySQL"/></div> |<div align="center"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" title="Matplotlib"/></div> |<div align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" title="Jupyter" height="50"/></div>| <div align="center"><div align="center"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="40" title="Windows Terminal"/></div><div align="center"><img src="https://skillicons.dev/icons?i=npm" title="NPM"/></div></div> |
 
 <h1 align="center">🚀 Top Projects</h1>
@@ -82,7 +82,13 @@
 
   <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZhbHJtZzZvNWFsbWZ2MGN4Yms5NXdyanY3bWVjZDl3eWQ4dzVtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26DOMQa5Ib2SmaRZm/giphy.gif" width="70" />  
-    <strong>A platform for cinephiles to connect & discuss together about films built with React.js & Firebase</strong>  
+    <strong>
+  A platform for cinephiles to connect & discuss together about films built with React.js 
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" height="20"/> 
+  & Firebase 
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="20" />
+</strong>
+
   </p>
 
   <!-- Links -->
