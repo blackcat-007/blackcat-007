@@ -1,7 +1,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
    
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=1CA9C9&height=250&section=header&text=Shubhodeep%20Mukherjee&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=ffffff&descColor=1CA9C9&fontSize=72&fontAlignY=36&descAlignY=54&descAlign=70.5" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1CA9C9&height=250&section=header&text=Shubhodeep%20Mukherjee&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=003140&descColor=003140&fontSize=72&fontAlignY=36&descAlignY=54&descAlign=70.5" alt="Header" />
+
+
+
+
+
 
   </a>
 </p>
