@@ -71,6 +71,36 @@
 | <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,python" title="C, C++, Java, JavaScript, TypeScript, HTML, CSS, Python"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,django,tailwind,bootstrap" title="React, Redux, Next.js, Node.js, Django, TailwindCSS, Bootstrap"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=idea,vscode" title="IntelliJ IDEA, VS Code"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel" title="Git, GitHub, Figma, Postman,Vercel"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></div> |
 | <div align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" title="MongoDB, MySQL"/></div> |<div align="center"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" title="Matplotlib"/></div> |<div align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" title="Jupyter" height="50"/></div>| <div align="center"><div align="center"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="40" title="Windows Terminal"/></div><div align="center"><img src="https://skillicons.dev/icons?i=npm" title="NPM"/></div></div> |
 
+<h1 align="center">🚀 Top Projects</h1>
+
+<div align="center">
+
+  <!-- Project Card -->
+  <a href="https://sofilmy.vercel.app/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🎬%20Sofilmy%20Website-1CA9C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Sofilmy Badge" />
+  </a>
+
+  <p align="center">
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="70" />  
+    <strong>A platform for cinephiles to connect & discuss together about films built with React.js & Firebase</strong>  
+  </p>
+
+  <!-- Links -->
+  <p>
+    🔗 <a href="https://github.com/blackcat-007/sofilmy" target="_blank">View Source Code</a>  
+    &nbsp;|&nbsp;  
+    🌐 <a href="https://sofilmy.vercel.app/" target="_blank">Live Demo</a>
+  </p>
+
+  <!-- Preview Image -->
+  <a href="https://sofilmy.vercel.app/" target="_blank">
+    <img src="https://res.cloudinary.com/ddcdrrav8/image/upload/v1752396989/Ping_Nest_3_icqpmk.png" alt="Sofilmy Preview" width="20%" style="border-radius:10px; box-shadow:0 0 20px rgba(28,169,201,0.7);" />
+  </a>
+  <p align="center"> "Sofilmy – Where every cinephile’s reel meets for real! From mood-based picks to epic debates, lights, camera… connect!" 🎥</p>
+
+</div>
+
+
  <h1 align="center">Activity</h1>
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackcat-007&theme=react" height="180em" />
