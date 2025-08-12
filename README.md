@@ -28,7 +28,7 @@
 </p>
 
 
-<h1 align="center">Connect with me:</h1>
+<h1 align="center">Connect with me</h1>
 <p align="center">
   <a href="shubhodeepmukherjee24@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="50" width="50" />
@@ -66,7 +66,7 @@
 | <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,python" title="C, C++, Java, JavaScript, TypeScript, HTML, CSS, Python"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,django,tailwind,bootstrap" title="React, Redux, Next.js, Node.js, Django, TailwindCSS, Bootstrap"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=idea,vscode" title="IntelliJ IDEA, VS Code"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel" title="Git, GitHub, Figma, Postman,Vercel"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></div> |
 | <div align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" title="MongoDB, MySQL"/></div> |<div align="center"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" title="Matplotlib"/></div> |<div align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" title="Jupyter" height="50"/></div>| <div align="center"><div align="center"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="40" title="Windows Terminal"/></div><div align="center"><img src="https://skillicons.dev/icons?i=npm" title="NPM"/></div></div> |
 
- 
+ <h1 align="center">Stats</h1>
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackcat-007&theme=react" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackcat-007&theme=react" height="180em" />
