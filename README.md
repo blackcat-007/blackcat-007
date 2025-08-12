@@ -15,10 +15,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&logo=github&logoColor=white&colorA=0e75b6&colorB=001f3f" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=blackcat-007&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" width="150" height="50" />
 </p>
 
+
  
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=blackcat-007&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="blackcat-007" />
