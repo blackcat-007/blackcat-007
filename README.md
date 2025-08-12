@@ -1,12 +1,14 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F77209&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubhodeep+Mukherjee" alt="Typing SVG" />
+   
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=1CA9C9&height=250&section=header&text=Shubhodeep%20%0AMukherjee&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=72&fontAlignY=36&descAlignY=54&descAlign=70.5" alt="Header" />
+
   </a>
 </p>
 
-<h3 align="center">An ECE Student</h3>
+<h3 align="center">Student of ECE</h3>
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Passionate+About+Coding;Software+Development;Competitive+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Passionate+Coder;Software+Developer;Competitive+Programmer" alt="Typing SVG" />
 </h2>
 <p align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -53,27 +55,33 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) | 
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1CA9C9&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) |
 | ----- | ---- | ---- | ---- | ---- |
 | <div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,python" title="C, C++, Java, JavaScript, TypeScript, HTML, CSS, Python"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,django,tailwind,bootstrap" title="React, Redux, Next.js, Node.js, Django, TailwindCSS, Bootstrap"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=idea,vscode" title="IntelliJ IDEA, VS Code"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel" title="Git, GitHub, Figma, Postman,Vercel"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></div> |
 | <div align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" title="MongoDB, MySQL"/></div> |<div align="center"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" title="Matplotlib"/></div> |<div align="center"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" title="Jupyter" height="50"/></div>| <div align="center"><div align="center"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" height="40" title="Windows Terminal"/></div><div align="center"><img src="https://skillicons.dev/icons?i=npm" title="NPM"/></div></div> |
 
  
- <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackcat-007&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackcat-007&theme=tokyonight" height="180em" /></p>
-
 <p align="center">
-  &nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=blackcat-007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blackcat-007&theme=tokyonight" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackcat-007&theme=tokyonight" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackcat-007&theme=tokyonight" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackcat-007&theme=react" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackcat-007&theme=react" height="180em" />
 </p>
 
 <p align="center">
-     <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=blackcat-007&theme=dark&hide_border=true" />
-  </p>
-  <div align="center">
-  <img src="https://leetcard.jacoblin.cool/shubhodeep_mukherjee?ext=contest" alt="Leetcode Stats" />
+  &nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=blackcat-007&limit=5&theme=react&combine_all_yearly_contributions=true" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blackcat-007&theme=react" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackcat-007&theme=react" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackcat-007&theme=react" height="180em" />
+</p>
+
+<p align="center">
+  <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=blackcat-007&theme=react&hide_border=true" />
+</p>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/shubhodeep_mukherjee?ext=contest&theme=transparent&bg=0d1117&font=1CA9C9&border=0d1117" alt="Leetcode Stats" />
 </div>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1CA9C9&height=150&section=footer"/>
+</div>
+
