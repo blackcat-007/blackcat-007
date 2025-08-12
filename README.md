@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Passionate+Engineer;Software+Developer;Competitive+Programmer" alt="Typing SVG" />
 </h2>
 <p align="center">
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=300 width=550 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 
 <p align="center">
