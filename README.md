@@ -11,10 +11,10 @@
   </a>
 </p>
 
-<h3 align="center">Student of ECE</h3>
-<h2 align="center">
+<h2 align="center">Student of ECE</h2>
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Passionate+Engineer;Software+Developer;Competitive+Programmer" alt="Typing SVG" />
-</h2>
+</h1>
 <p align="center">
 <img alt="Coder GIF" height=300 width=550 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
