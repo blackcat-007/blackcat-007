@@ -93,7 +93,7 @@
 
   <!-- Links -->
   <p>
-    🔗 <a href="https://github.com/blackcat-007/sofilmy" target="_blank">View Source Code</a>  
+    🔗 <a href="https://github.com/blackcat-007/...sofilmy" target="_blank">View Source Code</a>  
     &nbsp;|&nbsp;  
     🌐 <a href="https://sofilmy.vercel.app/" target="_blank">Live Demo</a>
   </p>
