@@ -100,7 +100,7 @@
 
   <!-- Preview Image -->
   <a href="https://sofilmy.vercel.app/" target="_blank">
-    <img src="https://res.cloudinary.com/ddcdrrav8/image/upload/v1752396989/Ping_Nest_3_icqpmk.png" alt="Sofilmy Preview" width="20%" style="border-radius:10px; box-shadow:0 0 20px rgba(28,169,201,0.7);" />
+    <img src="https://res.cloudinary.com/ddcdrrav8/image/upload/v1758299986/Ping_Nest_8_fd2n08.png" alt="Sofilmy Preview" width="20%" style="border-radius:10px; box-shadow:0 0 20px rgba(28,169,201,0.7);" />
   </a>
   <p align="center"> "Where every cinephile’s reel meets for real! From mood-based picks to epic debates, lights, camera… connect!" 🎥</p>
 
