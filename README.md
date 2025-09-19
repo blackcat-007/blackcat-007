@@ -125,7 +125,10 @@
 </p>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/shubhodeep_mukherjee?ext=contest&theme=transparent&bg=0d1117&font=1CA9C9&border=0d1117" alt="Leetcode Stats" />
+  <img src="https://leetcard.jacoblin.cool/shubhodeep_mukherjee?ext=heatmap&theme=transparent&bg=0d1117&font=1CA9C9&border=0d1117" alt="Leetcode Stats" />
+  
+ 
+
 </div>
 
 <div align="center">
