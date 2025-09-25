@@ -74,43 +74,10 @@
 <h1 align="center">🚀 Top Projects</h1>
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
-
-  <!-- Project 1: Sofilmy -->
-  <div style="max-width:320px; text-align:center; background: rgba(255,255,255,0.05); padding:25px; border-radius:15px; box-shadow:0 0 20px rgba(28,169,201,0.5); flex:1;">
-    <a href="https://sofilmy.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🎬%20Sofilmy%20Website-1CA9C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Sofilmy Badge" width="50%" />
-    </a>
-    <p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZhbHJtZzZvNWFsbWZ2MGN4Yms5NXdyanY3bWVjZDl3eWQ4dzVtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26DOMQa5Ib2SmaRZm/giphy.gif" width="70" /></p>
-    <p>
-      <strong>A platform for cinephiles to connect & discuss films, built with React.js 
-      <img src="https://skillicons.dev/icons?i=react" title="React.js" height="20"/> 
-      & Firebase 
-      <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="20"/></strong>
-    </p>
-    <p>🔗 <a href="https://github.com/blackcat-007/...sofilmy" target="_blank">Source Code</a> | 🌐 <a href="https://sofilmy.vercel.app/" target="_blank">Live Demo</a></p>
-    <a href="https://sofilmy.vercel.app/" target="_blank">
-      <img src="https://res.cloudinary.com/ddcdrrav8/image/upload/v1758557666/Ping_Nest_13_zpckkw.png" alt="Sofilmy Preview" width="15%" style="border-radius:10px; box-shadow:0 0 20px rgba(28,169,201,0.7);" />
-    </a>
-    <p style="font-style:italic; font-size:14px;">"Where every cinephile’s reel meets for real!" 🎥</p>
-  </div>
-
-  <!-- Project 2: PromptMania -->
-  <div style="max-width:320px; text-align:center; background: rgba(255,255,255,0.05); padding:25px; border-radius:15px; box-shadow:0 0 20px rgba(135,206,235,0.5); flex:1;">
-    <a href="https://promptmania-u24e.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🧠%20PromptMania-1CA9C9?style=for-the-badge&logo=vercel&logoColor=white" alt="PromptMania Badge" width="50%" />
-    </a>
-    <p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFkZ2JiYXhvMWphbXc2bmRqNjY0Z3RzNmx6aWtkdm9vMXk0eW81byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ABVK96HgZvWI9SBbXr/giphy.gif" width="90" /></p>
-    <p>
-      <strong>A hub for trending AI prompts! Save, explore, and create images, videos & content with AI ⚡  
-      <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="20"/> & MongoDB 
-      <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="20"/></strong>
-    </p>
-    <p>🔗 <a href="https://github.com/blackcat-007/promptmania" target="_blank">Source Code</a> | 🌐 <a href="https://promptmania-u24e.vercel.app/" target="_blank">Live Demo</a></p>
-    <a href="https://promptmania-u24e.vercel.app/" target="_blank">
-      <img src="https://res.cloudinary.com/ddcdrrav8/image/upload/v1758786565/Screenshot_2025-09-25_131603-Picsart-AiImageEnhancer_w6gdy8.png" alt="PromptMania Preview" width="15%" style="border-radius:10px; box-shadow:0 0 20px rgba(135,206,235,0.7);" />
-    </a>
-    <p style="font-style:italic; font-size:14px;">"Discover trending AI prompts & create images, videos, and fun content!" 🤖🎨</p>
-  </div>
+  
+[![...SoFilmy](https://github-readme-stats.vercel.app/api/pin/?username=blackcat-007&repo=...sofilmy&theme=react)](https://github.com/blackcat-007/...sofilmy)
+[![Promptmania](https://github-readme-stats.vercel.app/api/pin/?username=blackcat-007&repo=promptmania&theme=react)](https://github.com/blackcat-007/promptmania)
+[![PingNest](https://github-readme-stats.vercel.app/api/pin/?username=blackcat-007&repo=PingNest&theme=react)](https://github.com/blackcat-007/PingNest)
 
 </div>
 
