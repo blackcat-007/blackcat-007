@@ -57,8 +57,8 @@
   <a href="https://www.naukri.com/code360/profile/Blackcat" target="blank">
     <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="Blackcat" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/shubhodeep_mukherjee" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhodeep_mukherjee" height="50" width="50" />
+  <a href="https://leetcode.com/u/shubhodeep_007/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhodeep_007" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/shubhodeepm9jut" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhodeepm9jut" height="30" width="40" />
@@ -104,7 +104,14 @@
  
 
 </div>
+<div align="center">
+   <img src="https://leetcard.jacoblin.cool/shubhodeep_007?ext=contest&theme=transparent&bg=0d1117&font=1CA9C9&border=0d1117" alt="Leetcode Stats" />
+  
+ 
 
+</div>
+
+  
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1CA9C9&height=150&section=footer&text=Let's%20Collaborate&fontSize=40&fontColor=ffffff"/>
 </div>
